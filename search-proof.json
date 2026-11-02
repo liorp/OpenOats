@@ -1,0 +1,15 @@
+{
+  "appleSearchSource" : "work\/references :: reference.md",
+  "bananaContextSource" : "personal\/references :: reference.md",
+  "chunkCount" : 2,
+  "endpoint" : "http:\/\/127.0.0.1:51251",
+  "externalInference" : false,
+  "fileCount" : 2,
+  "httpRequests" : 3,
+  "restored" : true,
+  "restoredFileCount" : 2,
+  "sources" : [
+    "personal\/references :: reference.md",
+    "work\/references :: reference.md"
+  ]
+}
